@@ -1,6 +1,6 @@
 # Content workflows practice space
 
-Load the JSON export file into an empty space to get hands-on practice with setting a legal approval content workflow using custom roles and permissions.
+This repo contains the content model for a legal approval workflow. After importing it you can customize the roles and permissions in your space to practice a legal approval workflow.
 
 ![The content model for a custom offer page](./github-screenshot.png
  "The content model for a custom offer page")
