@@ -14,6 +14,6 @@ $ git clone https://github.com/skikirkwood/ls-workflows.git
 ### Import the JSON export into an empty space
 
 ```
-$ contentful import --space-id <your space ID> --content-file ./contentful-export.json
+$ contentful import --space-id <your space ID> --content-file ./contentful-workflow-export.json
 ```
 
